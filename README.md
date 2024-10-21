@@ -11,7 +11,7 @@
 - **Programming Languages:** Python, Java, SQL, R
 - **Databases:** MySQL
 - **Data Visualization:** Tableau, Matplotlib
-- **Other Tools:** Google Cloud Platform (GCP), GitHub, Microsoft Excel, Google Sheets
+- **Other Tools:** Google Cloud Platform (GCP), GitHub, Google Sheets, Google Slides, Google Docs
 
 ### 🔍 **What I Do:**
 - **Data Analysis**: From data wrangling to statistical analysis, I work on ensuring data is clean, analyzed, and used to generate insights that drive key decisions.
