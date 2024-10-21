@@ -3,8 +3,8 @@
 🎓 **Data Science Management Graduate** with a passion for transforming data into actionable insights and solving real-world problems through data analytics. As a dedicated learner, I focus on extracting meaningful patterns from data and using it to inform decision-making. I'm actively looking for opportunities where I can apply my skills and continue growing in the field of data analysis.
 
 ### 💼 **About Me:**
-- I have experience in **Python**, **SQL**, **Tableau**, and **Java**. These tools help me dive into raw data, clean it, and uncover insights that are crucial for decision-making.
-- My journey has taken me through a variety of projects, from diagnosing **Liver Disease** to building an **Airline Ticket Reservation System**. Each project has honed my skills in data preprocessing, exploratory data analysis (EDA), and visualization.
+- I have experience in **Python**, **SQL**, and **Tableau**. These tools help me dive into raw data, clean it, and uncover insights that are crucial for decision-making.
+- My journey has taken me through a variety of projects, from diagnosing **Liver Disease** to building an **Airline Ticket Reservation System**. Each project has honed my skills in data preprocessing, exploratory data analysis (EDA), visualization, Database Interactions, Data Management, and Backend Development.
 - I’m passionate about learning and continuously pushing the boundaries of what can be achieved through data. Whether it’s **machine learning**, **data visualization**, or **SQL-driven analysis**, I’m always excited to take on new challenges.
 
 ### 🛠 **Technologies & Tools:**
@@ -17,7 +17,7 @@
 - **Data Analysis**: From data wrangling to statistical analysis, I work on ensuring data is clean, analyzed, and used to generate insights that drive key decisions.
 - **Machine Learning**: Leveraging Python libraries like Scikit-learn to build diagnostic models and classification techniques.
 - **Data Visualization**: Creating interactive dashboards in **Tableau** to present insights in a compelling way for stakeholders.
-- **Cloud Computing**: Using **Google Cloud Platform** to manage and deploy data-driven solutions.
+- **Cloud Computing**: Utilized **Google Cloud Platform (GCP)** for implementing REST APIs to retrieve data efficiently, ensuring streamlined data access and integration within cloud-based environments.
 
 ### 🌟 **Key Projects:**
 1. **Liver Disease Diagnosis using Machine Learning**  
