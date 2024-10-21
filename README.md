@@ -1,11 +1,7 @@
-# Hi, I'm Sachin Guria 👋
-
-🎓 **Data Science Management Graduate** with a passion for transforming data into actionable insights and solving real-world problems through data analytics. As a dedicated learner, I focus on extracting meaningful patterns from data and using it to inform decision-making. I'm actively looking for opportunities where I can apply my skills and continue growing in the field of data analysis.
-
 ### 💼 **About Me:**
-- I have experience in **Python**, **SQL**, and **Tableau**. These tools help me dive into raw data, clean it, and uncover insights that are crucial for decision-making.
-- My journey has taken me through a variety of projects, from diagnosing **Liver Disease** to building an **Airline Ticket Reservation System**. Each project has honed my skills in **data preprocessing**, **exploratory data analysis (EDA)**, **visualization**, **Database Interactions**, **Data Management**, and **Backend Development**.
-- I’m passionate about learning and continuously pushing the boundaries of what can be achieved through data. Whether it’s **machine learning**, **data visualization**, or **SQL-driven analysis**, I’m always excited to take on new challenges.
+Hi there 👋. I’m Sachin Guria, a dedicated and results-driven Data Analyst with a strong foundation in data analysis, machine learning, and data-driven decision-making. With a passion for uncovering insights from data, I enjoy transforming raw information into valuable, actionable outcomes. My work spans across diagnosing complex health conditions with machine learning models, managing flight data with Django, and visualizing trends through interactive dashboards.
+
+While I’m focused on enhancing my data expertise, I’m also enthusiastic about learning new technologies and staying updated with the latest industry trends. When I’m not exploring data, I’m probably enjoying music or pondering life’s bigger questions.
 
 ### 🛠 **Technologies & Tools:**
 - **Programming Languages:** Python, Java, SQL, R
