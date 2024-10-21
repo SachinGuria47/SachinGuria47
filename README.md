@@ -14,7 +14,7 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
 <code><img height="50" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 
 #### **Data Visualization**
-<code><img height="50" alt="tableau" src="https://raw.githubusercontent.com/github/explore/master/topics/tableau/tableau.png"></code>
+<code><img height="50" alt="tableau" src="[https://raw.githubusercontent.com/github/explore/master/topics/tableau/tableau.png](https://github.com/SachinGuria47/SachinGuria47/blob/main/tableau.png)"></code>
 <code><img height="50" alt="matplotlib" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png"></code>
 
 #### **Cloud & Tools**
