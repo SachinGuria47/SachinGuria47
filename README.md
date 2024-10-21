@@ -5,17 +5,21 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
 
 ### 🛠 **Technologies & Tools:**
 
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-  **Programming Languages**
-  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-  **Databases**
-  
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-019733?style=for-the-badge&logo=matplotlib&logoColor=white)  
-  **Data Visualization**
-  
-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![Google Slides](https://img.shields.io/badge/Google_Slides-F4B400?style=for-the-badge&logo=google-slides&logoColor=white) ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)  
-  **Other Tools**
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
+<code><img height="20" alt="r" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png"></code>
+
+<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+
+<code><img height="20" alt="tableau" src="https://raw.githubusercontent.com/github/explore/master/topics/tableau/tableau.png"></code>
+<code><img height="20" alt="matplotlib" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png"></code>
+
+<code><img height="20" alt="google-cloud" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>
+<code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+<code><img height="20" alt="google-sheets" src="https://raw.githubusercontent.com/github/explore/master/topics/google-sheets/google-sheets.png"></code>
+<code><img height="20" alt="google-slides" src="https://raw.githubusercontent.com/github/explore/master/topics/google-slides/google-slides.png"></code>
+<code><img height="20" alt="google-docs" src="https://raw.githubusercontent.com/github/explore/master/topics/google-docs/google-docs.png"></code>
 
 
 ### 🔍 **What I Do:**
