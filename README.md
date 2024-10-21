@@ -7,7 +7,7 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
 #### **Programming Languages**
 <code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="50" alt="java" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-<code><img height="50" alt="sql" src="https://img.icons8.com/ios-filled/50/000000/sql.png"></code>
+<code><img height="50" alt="sql" src="https://img.icons8.com/fluency/48/000000/sql.png"></code>
 <code><img height="50" alt="r" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png"></code>
 
 #### **Databases**
