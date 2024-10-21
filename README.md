@@ -60,7 +60,7 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
 ---
 
 📫 **Let’s connect!**  
-"If you've made it this far, I'd love to hear from you. Let's collaborate or simply connect!".
+"You've made it this far—let's take the next step and collaborate, or simply connect!".
 
 - **Email**: [sachinguria47@gmail.com](mailto:sachinguria47@gmail.com)
 - **LinkedIn**: [Sachin Guria](https://www.linkedin.com/in/sachin-guria-data-analyst/)
