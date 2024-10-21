@@ -44,4 +44,4 @@ Feel free to reach out for collaboration or just to chat about anything data-rel
 
 - **Email**: [sachinguria47@gmail.com](mailto:sachinguria47@gmail.com)
 - **LinkedIn**: [Sachin Guria](https://www.linkedin.com/in/sachin-guria-data-analyst/)
-- **GitHub**: [SachinGuria47](https://github.com/SachinGuria47)
+
