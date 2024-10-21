@@ -1,11 +1,11 @@
 # Hi, I'm Sachin Guria 👋
 
-🎓 **Data Science Management Graduate** with a passion for transforming data into actionable insights and solving real-world problems through data analytics. Currently working as a **Data Analyst**, I focus on extracting meaningful patterns from data and using it to inform decision-making.
+🎓 **Data Science Management Graduate** with a passion for transforming data into actionable insights and solving real-world problems through data analytics. As a dedicated learner, I focus on extracting meaningful patterns from data and using it to inform decision-making. I'm actively looking for opportunities where I can apply my skills and continue growing in the field of data analysis.
 
 ### 💼 **About Me:**
-- I have experience in **Python**, **SQL**, **Tableau**, and **Java**. These tools are the backbone of my data analysis projects, where I love diving into raw data, cleaning it up, and uncovering insights that help businesses move forward.
-- My journey has taken me through a variety of projects, from developing a **Liver Disease Diagnostic Model** to building an **Airline Ticket Reservation System**. Each project sharpened my skills in data preprocessing, exploratory data analysis (EDA), and visualizations.
-- I believe in lifelong learning and constantly pushing the boundaries of what data can do. Whether it’s **machine learning**, **data visualization**, or **SQL-driven analysis**, I’m always excited to take on new challenges.
+- I have experience in **Python**, **SQL**, **Tableau**, and **Java**. These tools help me dive into raw data, clean it, and uncover insights that are crucial for decision-making.
+- My journey has taken me through a variety of projects, from developing a **Liver Disease Diagnostic Model** to building an **Airline Ticket Reservation System**. Each project has honed my skills in data preprocessing, exploratory data analysis (EDA), and visualization.
+- I’m passionate about learning and continuously pushing the boundaries of what can be achieved through data. Whether it’s **machine learning**, **data visualization**, or **SQL-driven analysis**, I’m always excited to take on new challenges.
 
 ### 🛠 **Technologies & Tools:**
 - **Programming Languages:** Python, Java, SQL, R
@@ -14,7 +14,7 @@
 - **Other Tools:** Google Cloud Platform (GCP), GitHub, Microsoft Excel, Google Sheets
 
 ### 🔍 **What I Do:**
-- **Data Analysis**: From data wrangling to statistical analysis, I work on ensuring data is clean, analyzed, and used to generate insights that drive key business decisions.
+- **Data Analysis**: From data wrangling to statistical analysis, I work on ensuring data is clean, analyzed, and used to generate insights that drive key decisions.
 - **Machine Learning**: Leveraging Python libraries like Scikit-learn to build predictive models, including classification and regression techniques.
 - **Data Visualization**: Creating interactive dashboards in **Tableau** to present insights in a compelling way for stakeholders.
 - **Cloud Computing**: Using **Google Cloud Platform** to manage and deploy data-driven solutions.
@@ -33,9 +33,9 @@
    [Tableau Dashboard](https://public.tableau.com/views/SalesInsights_17275377764190/Dashboard1)
 
 ### 🏆 **Certifications:**
-- Data Analysis with Python (FreeCodeCamp)
-- SQL for Data Analytics (Udemy)
-- Various Hackerrank certifications for Python and SQL
+- [Data Analysis with Python](https://freecodecamp.org/certification/Sachin47/data-analysis-with-python-v7) (FreeCodeCamp)
+- [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-45959573-600f-48fb-a54d-6d45f00846bd/) (Udemy)
+- [Hackerrank SQL Certificate](https://www.hackerrank.com/certificates/11d1373072f6)
 
 ---
 
