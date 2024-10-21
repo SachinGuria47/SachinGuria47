@@ -1,51 +1,47 @@
-# 👋 Hello, I'm Sachin Guria
+# Hi, I'm Sachin Guria 👋
 
-## 🚀 About Me
-Data Science Management graduate passionate about transforming data into actionable insights. Currently working as a Data Analytics Apprentice with expertise in Python, SQL, and data visualization. I love building practical solutions that make a difference, from disease prediction models to interactive dashboards.
+🎓 **Data Science Management Graduate** with a passion for transforming data into actionable insights and solving real-world problems through data analytics. Currently working as a **Data Analyst**, I focus on extracting meaningful patterns from data and using it to inform decision-making.
 
-## 💻 Tech Stack
-- **Languages:** Python, SQL, R
-- **Data Science:** Pandas, NumPy, scikit-learn
-- **Visualization:** Tableau, Matplotlib
-- **Database:** MySQL
-- **Tools:** Excel, Google Sheets, Google Cloud Platform (GCP)
-- **Version Control:** Git, GitHub
-- **Development:** Django, HTML, CSS, JavaScript
+### 💼 **About Me:**
+- I have experience in **Python**, **SQL**, **Tableau**, and **Java**. These tools are the backbone of my data analysis projects, where I love diving into raw data, cleaning it up, and uncovering insights that help businesses move forward.
+- My journey has taken me through a variety of projects, from developing a **Liver Disease Diagnostic Model** to building an **Airline Ticket Reservation System**. Each project sharpened my skills in data preprocessing, exploratory data analysis (EDA), and visualizations.
+- I believe in lifelong learning and constantly pushing the boundaries of what data can do. Whether it’s **machine learning**, **data visualization**, or **SQL-driven analysis**, I’m always excited to take on new challenges.
 
-## 🔭 Featured Projects
-- **Liver Disease Diagnostic Model** - Developed a classification model using Indian Liver Patient Dataset (ILPD) with Python and scikit-learn. Performed comprehensive EDA and data preprocessing to improve model accuracy.
-  
-- **Fly/Bharat - Airline Ticket Booking Website** - Created a Django-based booking platform with efficient database management for flight and booking information.
-  
-- **Sales Insights Dashboard** - Built an interactive Tableau dashboard analyzing sales distribution, customer demographics, and seasonal trends to drive business decisions.
+### 🛠 **Technologies & Tools:**
+- **Programming Languages:** Python, Java, SQL, R
+- **Databases:** MySQL
+- **Data Visualization:** Tableau, Matplotlib
+- **Other Tools:** Google Cloud Platform (GCP), GitHub, Microsoft Excel, Google Sheets
 
-## 🎓 Education
-- **B.Sc. in Data Science Management** - Ravenshaw University (CGPA: 7.97)
-- **Tech Trek AI & DS Discovery** - Summer Program at Jio Institute
+### 🔍 **What I Do:**
+- **Data Analysis**: From data wrangling to statistical analysis, I work on ensuring data is clean, analyzed, and used to generate insights that drive key business decisions.
+- **Machine Learning**: Leveraging Python libraries like Scikit-learn to build predictive models, including classification and regression techniques.
+- **Data Visualization**: Creating interactive dashboards in **Tableau** to present insights in a compelling way for stakeholders.
+- **Cloud Computing**: Using **Google Cloud Platform** to manage and deploy data-driven solutions.
 
-## 🌱 I'm Currently Learning
-- Advanced Machine Learning Techniques
-- Cloud Computing with GCP
-- Advanced Data Visualization
+### 🌟 **Key Projects:**
+1. **Liver Disease Diagnosis using Machine Learning**  
+   Collaborated in a team to develop a classification model for predicting liver disease using the Indian Liver Patient Dataset. Implemented data preprocessing and exploratory data analysis to derive patterns and insights.  
+   [GitHub Repo](https://github.com/SachinGuria47/IndianLiverDisease-Diagnosis-MLproject)
 
-## 📊 Certifications
-- Data Analysis with Python
-- SQL - MySQL for Data Analytics and Business Intelligence
-- SQL (Intermediate) Certificate
+2. **Fly/Bharat Airline Ticket Booking System**  
+   Developed a backend system using **Django** for flight data and bookings. Managed efficient data storage and retrieval to streamline the booking process.  
+   [GitHub Repo](https://github.com/Fly-BharatPROJECT/airline)
 
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-guria-data-analyst)
+3. **Comprehensive Sales Insights Dashboard**  
+   Created an interactive **Tableau Dashboard** for analyzing sales trends, customer demographics, and seasonal insights. Cleaned and preprocessed data using Python, and leveraged Tableau for visualizations.  
+   [Tableau Dashboard](https://public.tableau.com/views/SalesInsights_17275377764190/Dashboard1)
 
-## 📫 How to Reach Me
-- 📧 Email: sachinguria47@gmail.com
-- 📱 Phone: +91 9861367104
-- 📍 Location: Jharsuguda, Odisha, India
-
-## ⚡ Key Strengths
-- Strong analytical and problem-solving skills
-- Excellent team collaboration
-- Adaptable and quick learner
-- Effective communication of complex data insights
+### 🏆 **Certifications:**
+- Data Analysis with Python (FreeCodeCamp)
+- SQL for Data Analytics (Udemy)
+- Various Hackerrank certifications for Python and SQL
 
 ---
-*Open to data science collaborations and opportunities! Feel free to reach out for interesting projects or discussions.*
+
+📫 **Let’s connect!**  
+Feel free to reach out for collaboration or just to chat about anything data-related.
+
+- **Email**: [sachinguria47@gmail.com](mailto:sachinguria47@gmail.com)
+- **LinkedIn**: [Sachin Guria](https://www.linkedin.com/in/sachin-guria-data-analyst/)
+- **GitHub**: [SachinGuria47](https://github.com/SachinGuria47)
