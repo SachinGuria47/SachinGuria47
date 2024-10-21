@@ -4,7 +4,7 @@
 
 ### 💼 **About Me:**
 - I have experience in **Python**, **SQL**, **Tableau**, and **Java**. These tools help me dive into raw data, clean it, and uncover insights that are crucial for decision-making.
-- My journey has taken me through a variety of projects, from developing a **Liver Disease Diagnostic Model** to building an **Airline Ticket Reservation System**. Each project has honed my skills in data preprocessing, exploratory data analysis (EDA), and visualization.
+- My journey has taken me through a variety of projects, from diagnosing **Liver Disease** to building an **Airline Ticket Reservation System**. Each project has honed my skills in data preprocessing, exploratory data analysis (EDA), and visualization.
 - I’m passionate about learning and continuously pushing the boundaries of what can be achieved through data. Whether it’s **machine learning**, **data visualization**, or **SQL-driven analysis**, I’m always excited to take on new challenges.
 
 ### 🛠 **Technologies & Tools:**
@@ -15,13 +15,13 @@
 
 ### 🔍 **What I Do:**
 - **Data Analysis**: From data wrangling to statistical analysis, I work on ensuring data is clean, analyzed, and used to generate insights that drive key decisions.
-- **Machine Learning**: Leveraging Python libraries like Scikit-learn to build predictive models, including classification and regression techniques.
+- **Machine Learning**: Leveraging Python libraries like Scikit-learn to build diagnostic models and classification techniques.
 - **Data Visualization**: Creating interactive dashboards in **Tableau** to present insights in a compelling way for stakeholders.
 - **Cloud Computing**: Using **Google Cloud Platform** to manage and deploy data-driven solutions.
 
 ### 🌟 **Key Projects:**
 1. **Liver Disease Diagnosis using Machine Learning**  
-   Collaborated in a team to develop a classification model for predicting liver disease using the Indian Liver Patient Dataset. Implemented data preprocessing and exploratory data analysis to derive patterns and insights.  
+   Collaborated in a team to develop a diagnostic model for liver disease using the Indian Liver Patient Dataset. Implemented data preprocessing and exploratory data analysis to derive patterns and insights.  
    [GitHub Repo](https://github.com/SachinGuria47/IndianLiverDisease-Diagnosis-MLproject)
 
 2. **Fly/Bharat Airline Ticket Booking System**  
