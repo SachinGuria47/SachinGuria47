@@ -1,5 +1,5 @@
 ### 💼 **About Me:**
-Hi there 👋. I’m Sachin Guria, a dedicated and results-driven Data Analyst with a strong foundation in **data analysis**, **machine learning**, and **data-driven decision-making**. With a passion for uncovering insights from data, I enjoy transforming raw information into valuable, actionable outcomes. My work spans across diagnosing liver disease with machine learning models, managing flight data with Django, and visualizing trends through interactive dashboards.
+Hi there 👋. I’m Sachin Guria, a dedicated and results-driven Data Analyst with a strong foundation in **data analysis**, **machine learning**, and **data-driven decision-making**. With a passion for uncovering insights from data, I enjoy transforming raw information into valuable, actionable outcomes. My work spans across diagnosing liver disease with **machine learning models**, managing flight data with **Django**, and **visualizing trends** through interactive dashboard.
 
 While I’m focused on enhancing my data expertise, I’m also enthusiastic about learning new technologies and staying updated with the latest industry trends. **When I’m not exploring data, I’m probably enjoying music or pondering life’s bigger questions**.
 
