@@ -12,14 +12,11 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
 <code><img height="50" alt="java" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
 <code><img height="50" alt="sql" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
 <code><img height="50" alt="r" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png"></code>
-
 #### **Databases**
 <code><img height="50" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-
 #### **Data Visualization**
 <code><img height="50" alt="tableau" src="https://img.icons8.com/color/48/000000/tableau-software.png">**Tableau**</code>
 <code><img height="50" alt="matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">**Matplotlib**</code>
-
 #### **Cloud & Tools**
 <code><img height="50" alt="google-cloud" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>
 <code><img height="50" alt="github" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
