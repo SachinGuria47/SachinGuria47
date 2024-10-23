@@ -43,7 +43,12 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
    Developed a backend system using **Django** for flight data and bookings. Managed efficient data storage and retrieval to streamline the booking process.  
    [GitHub Repo](https://github.com/Fly-BharatPROJECT/airline)
 
-3. **Comprehensive Sales Insights Dashboard**  
+3. **Analyzing Price Trends and Predicting Economic Index Movements**  
+   Analyzed CPI data (2013-2024) to predict economic index movements using machine learning models. Performed data cleaning, exploratory analysis, and built predictive models using Linear Regression and Decision 
+   Tree.  
+   [GitHub Repo](https://github.com/SachinGuria47/Analyzing-Price-Trends-and-Predicting-Economic-Index-Movements-using-Machine-Learning)
+
+4. **Comprehensive Sales Insights Dashboard**  
    Created an interactive **Tableau Dashboard** for analyzing sales trends, customer demographics, and seasonal insights. Cleaned and preprocessed data using Python, and leveraged Tableau for visualizations.  
    [Tableau Dashboard](https://public.tableau.com/views/SalesInsights_17275377764190/Dashboard1)
 
