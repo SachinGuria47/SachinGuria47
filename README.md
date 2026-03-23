@@ -23,7 +23,7 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
 <code><img height="50" alt="google-cloud" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>
 <code><img height="50" alt="google-sheets" src="https://raw.githubusercontent.com/github/explore/master/topics/google-sheets/google-sheets.png"></code>
 <code><img height="50" alt="google-docs" src="https://raw.githubusercontent.com/github/explore/master/topics/google-docs/google-docs.png"></code>
-<code><img height="50" alt="ms-excel" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">**MS Excel**</code>
+<code><img height="50" alt="ms-excel" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"></code>
 ---
 
 ### 🔍 **What I Do:**
