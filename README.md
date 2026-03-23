@@ -11,16 +11,19 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
 <code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="50" alt="sql" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
 <code><img height="50" alt="r" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png"></code>
+
 #### **Databases**
-<code><img height="50" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="50" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+
 #### **Data Visualization**
-<code><img height="50" alt="Tableau" src="https://img.icons8.com/color/48/000000/tableau-software.png">**Tableau**</code>
+<code><img height="50" alt="Power BI" src="https://img.icons8.com/color/48/000000/power-bi.png">**Power BI**</code>
 <code><img height="50" alt="matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">**Matplotlib**</code>
+<code><img height="50" alt="ms-excel" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">**MS Excel**</code>
+
 #### **Cloud & Tools**
 <code><img height="50" alt="google-cloud" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>
 <code><img height="50" alt="google-sheets" src="https://raw.githubusercontent.com/github/explore/master/topics/google-sheets/google-sheets.png"></code>
 <code><img height="50" alt="google-docs" src="https://raw.githubusercontent.com/github/explore/master/topics/google-docs/google-docs.png"></code>
-
 ---
 
 ### 🔍 **What I Do:**
