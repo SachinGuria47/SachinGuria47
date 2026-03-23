@@ -55,7 +55,7 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
 - [Data Analysis with Python](https://freecodecamp.org/certification/Sachin47/data-analysis-with-python-v7) (FreeCodeCamp)
 - [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-45959573-600f-48fb-a54d-6d45f00846bd/) (Udemy)
 - [Hackerrank SQL Certificate](https://www.hackerrank.com/certificates/11d1373072f6)
-- [Accounting & Financial Statement Analysis: Complete Training by 365 Careers, Udemy]([https://www.hackerrank.com/certificates/11d1373072f6](https://www.udemy.com/certificate/UC-b3d31d73-776e-430a-b62c-206f1a7b8745/))
+- [Accounting & Financial Statement Analysis: Complete Training by 365 Careers, Udemy](https://www.udemy.com/certificate/UC-b3d31d73-776e-430a-b62c-206f1a7b8745/)
 
 
 ---
