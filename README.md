@@ -18,12 +18,12 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
 #### **Data Visualization**
 <code><img height="50" alt="Power BI" src="https://img.icons8.com/color/48/000000/power-bi.png">**Power BI**</code>
 <code><img height="50" alt="matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">**Matplotlib**</code>
-<code><img height="50" alt="ms-excel" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">**MS Excel**</code>
 
 #### **Cloud & Tools**
 <code><img height="50" alt="google-cloud" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>
 <code><img height="50" alt="google-sheets" src="https://raw.githubusercontent.com/github/explore/master/topics/google-sheets/google-sheets.png"></code>
 <code><img height="50" alt="google-docs" src="https://raw.githubusercontent.com/github/explore/master/topics/google-docs/google-docs.png"></code>
+<code><img height="50" alt="ms-excel" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">**MS Excel**</code>
 ---
 
 ### 🔍 **What I Do:**
