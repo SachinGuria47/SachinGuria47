@@ -1,7 +1,9 @@
 ### 💼 **About Me:**
-Hi there 👋. I’m Sachin Guria, a dedicated and results-driven Data Analyst with a strong foundation in **data analysis**, **machine learning**, and **data-driven decision-making**. With a passion for uncovering insights from data, I enjoy transforming raw information into valuable, actionable outcomes. My work spans across diagnosing liver disease with **machine learning models**, managing flight data with **Django**, and **visualizing trends** through interactive dashboard.
-
-While I’m focused on enhancing my data expertise, I’m also enthusiastic about learning new technologies and staying updated with the latest industry trends. **When I’m not exploring data, I’m probably enjoying music or pondering life’s bigger questions**.
+Hi there 👋 I'm Sachin Guria. I didn't start with a plan, just a curiosity about why things are the way they are, and data turned out to be the best way to chase that.
+I work with data analytics through projects, my MBA in Business Economics, and a growing interest in statistics and econometrics that genuinely changed how I think about interpreting results and why rigour matters.
+I've dipped into machine learning too. Built some projects, broken a few models, still learning. More recently, economics and finance have pulled me in. Markets, policy, how one variable quietly shifts another. It's the kind of thinking I want to keep getting better at.
+At the end of the day, if there's data involved and a problem worth solving, I want to be in that room.
+When I'm not buried in datasets, you'll probably catch me lost in music, chasing a football, or down a rabbit hole of questions I didn't plan to ask. 
 
 ---
 
@@ -27,10 +29,15 @@ While I’m focused on enhancing my data expertise, I’m also enthusiastic abou
 ---
 
 ### 🔍 **What I Do:**
-- **Data Analysis**: From data wrangling to statistical analysis, I work on ensuring data is clean, analyzed, and used to generate insights that drive key decisions.
-- **Machine Learning**: Leveraging **Python libraries** like Scikit-learn to build diagnostic models and classification techniques.
-- **Data Visualization**: Creating interactive dashboards in **Tableau** to present insights in a compelling way for stakeholders.
-- **Cloud Computing**: Utilized **Google Cloud Platform (GCP)** for implementing REST APIs to retrieve data efficiently, ensuring streamlined data access and integration within cloud-based environments.
+- **Data Analysis**: Making sense of data, finding what matters and translating it into insights that actually help people make better decisions.
+- **Statistics & Econometrics**: Learning to ask the right questions from data. Understanding relationships, testing ideas and interpreting results in a way that holds up. This is something I am actively building on.
+- **Machine Learning**: Explored classification and prediction through hands on projects. Not an expert, but comfortable getting into the work and figuring it out.
+- **Data Visualization**: Turning numbers into narratives that a business audience can understand and act on, using **Power BI** and Matplotlib.
+- **Working with Data Systems**: Getting familiar with how data moves and connects across systems, including working with APIs to pull and integrate data where needed.
+
+### 📌 **What I'm Working Towards:**
+- Deepening my understanding of **economics and finance** and how data can be used to make sense of markets, business performance and real world decisions.
+- Being the kind of person who can sit between the data and the decision, in any domain whether it is sales, marketing, finance or operations. The domain can change. The approach doesn't.
 
 ---
 
